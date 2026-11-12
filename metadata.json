@@ -1,0 +1,6 @@
+{
+  "name": "Farida Tour Travel",
+  "description": "Teman informasi Umroh dan Haji. Konsultasi gratis bersama Hj. IDA R di Salatiga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

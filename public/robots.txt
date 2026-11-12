@@ -1,0 +1,5 @@
+# robots.txt for Farida Tour Travel
+User-agent: *
+Allow: /
+
+Sitemap: https://ais-pre-upvs6iokg7oknn3mvgbvrm-113028868774.asia-southeast1.run.app/sitemap.xml
