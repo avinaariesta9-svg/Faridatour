@@ -1,6 +1,7 @@
 import React from 'react';
 import { MessageCircle, BookOpen, MapPin, HeartHandshake, ShieldCheck } from 'lucide-react';
 import { SectionId } from '../../types';
+import kabahImg from '../../assets/images/kabah_makkah_mecca_1794477014232.jpg';
 
 interface HeroSectionProps {
   onNavigate: (id: SectionId) => void;
@@ -12,7 +13,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate }) => {
       {/* Background Image: Holy Ka'bah at Masjidil Haram */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/kabah_makkah_mecca_1794477014232.jpg"
+          src={kabahImg}
           alt="Keagungan Ka'bah di Masjidil Haram Makkah Al-Mukarramah"
           className="w-full h-full object-cover object-center"
           referrerPolicy="no-referrer"

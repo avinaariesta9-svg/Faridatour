@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import nabawiImg from '../../assets/images/masjid_nabawi_medina_1794477014619.jpg';
 import { 
   X, 
   ArrowRight, 
@@ -210,7 +211,7 @@ Koper Bagasi (Masuk bagasi pesawat):
         <div className="relative rounded-2xl overflow-hidden mb-16 shadow-xl border border-[#C5A059]/30 bg-[#0A192F]">
           <div className="h-64 sm:h-80 md:h-96 w-full relative">
             <img
-              src="/src/assets/images/masjid_nabawi_medina_1794477014619.jpg"
+              src={nabawiImg}
               alt="Keagungan Kubah Hijau dan Payung Masjid Nabawi di Madinah Al-Munawwarah"
               className="w-full h-full object-cover object-center"
               referrerPolicy="no-referrer"
