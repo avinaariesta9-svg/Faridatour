@@ -55,7 +55,7 @@ Ziarah ke Raudhah kini diatur sangat tertib melalui sistem giliran aplikasi resm
 1. Pastikan nomor paspor dan visa aktif Anda telah terdaftar di aplikasi Nusuk untuk mengambil jadwal antrean (tasreh).
 2. Datanglah 30-45 menit sebelum jam tasreh yang tertera di pintu gerbang yang ditentukan.
 3. Karpet Raudhah berwarna hijau, berbeda dengan area Masjid Nabawi lainnya yang berkarpet merah.
-4. Di dalam Raudhah, hindari sibuk berselfie atau membuat video. Manfaatkan setiap detik untuk bershalawat kepada Nabi SAW dan memohon ampunan untuk diri sendiri, kedua orang tua, serta kaum muslimin.`
+4. Di dalam Raudhah, hindari sibuk berselfie atau membuat video. Manfaatkan setiap detik untuk bershalawat kepada Nabi ﷺ dan memohon ampunan untuk diri sendiri, kedua orang tua, serta kaum muslimin.`
     },
     {
       id: 'tips-lansia',

@@ -66,7 +66,7 @@ export const InfoUmrohHajiSection: React.FC = () => {
       subtitle: 'Kesiapan Niat, Fisik & Pembekalan Manasik',
       summary: 'Langkah esensial agar ibadah berjalan lancar dan khusyuk sejak dari tanah air.',
       details: [
-        'Menata Niat yang Lurus: Niatkan semata-mata mengharap ridha Allah SWT, bukan demi prestise sosial atau gelar.',
+        'Menata Niat yang Lurus: Niatkan semata-mata mengharap ridha Allah ﷻ, bukan demi prestise sosial atau gelar.',
         'Latihan Kebugaran Fisik: Mulai berjalan kaki 2-3 km setiap pagi minimal sebulan sebelum jadwal, karena thawaf dan sa\'i membutuhkan stamina prima.',
         'Mengikuti Manasik: Pahami rukun (ihram, thawaf, sa\'i, tahallul, tertib) dan wajib umroh serta doa-doa yang dianjurkan.',
         'Pemeriksaan Kesehatan: Konsultasi dokter bagi yang memiliki komorbid dan siapkan obat rutin secukupnya dalam tas jinjing.'
